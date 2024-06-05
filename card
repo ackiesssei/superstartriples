@@ -1,0 +1,18 @@
+{
+        "BPAS_JS_R": [
+            {
+                "name": "<:r:1081522963628699669> **BLACKPINK JISOO** As If It's Your Last",
+                "image": "https://superstarsei.sirv.com/2023/April/AS%20IF%20IT'S%20YOUR%20LAST/1.png?format=png",
+                "song": "BLACKPINK - As If It's Your Last (Verse 1)",
+                "inv": "<:r:1081522963628699669> As If It's Your Last"
+            }
+        ],
+        "BPAS_JS_S": [
+            {
+                "name": "<:s:1081522960067727360> **BLACKPINK JISOO** As If It's Your Last",
+                "image": "https://superstarsei.sirv.com/2023/April/AS%20IF%20IT'S%20YOUR%20LAST/2.png?format=png",
+                "song": "BLACKPINK - As If It's Your Last (Verse 1)",
+                "inv": "<:s:1081522960067727360> As If It's Your Last"
+            }
+        ]
+}
