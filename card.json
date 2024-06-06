@@ -1,42 +1,42 @@
 {
         "AECG_YSY_R": [
             {
-                "name": "<:r:1247900738294906923> **ACID EYES Yoon SeoYeon** Cherry Gene",
+                "name": "<:rgrade:1247906959445852183> **ACID EYES Yoon SeoYeon** Cherry Gene",
                 "image": "https://ik.imagekit.io/superstartriples/resources/card/acid_eyes/cherry_gene/1.png",
                 "song": "ACID EYES - Cherry Gene (Verse 1)",
-                "inv": "<:r:1247900738294906923> Cherry Gene"
+                "inv": "<:rgrade:1247906959445852183> Cherry Gene"
             }
         ],
         "AECG_YSY_S": [
             {
-                "name": "<:s_:1247900718610911253> **ACID EYES Yoon SeoYeon** Cherry Gene",
+                "name": "<:sgrade:1247906957449498735> **ACID EYES Yoon SeoYeon** Cherry Gene",
                 "image": "https://ik.imagekit.io/superstartriples/resources/card/acid_eyes/cherry_gene/2.png",
                 "song": "ACID EYES - Cherry Gene (Verse 1)",
-                "inv": "<:s_:1247900718610911253> Cherry Gene"
+                "inv": "<:sgrade:1247906957449498735> Cherry Gene"
             }
         ],
         "AECG_YSY_A": [
             {
-                "name": "<:a:1247900744552812617> **ACID EYES Yoon SeoYeon** Cherry Gene",
+                "name": "<:agrade:1247906955356540939> **ACID EYES Yoon SeoYeon** Cherry Gene",
                 "image": "https://ik.imagekit.io/superstartriples/resources/card/acid_eyes/cherry_gene/3.png",
                 "song": "ACID EYES - Cherry Gene (Verse 1)",
-                "inv": "<:a:1247900744552812617> Cherry Gene"
+                "inv": "<:agrade:1247906955356540939> Cherry Gene"
             }
         ],
         "AECG_YSY_B": [
             {
-                "name": "<:b:1247900762676396085> **ACID EYES Yoon SeoYeon** Cherry Gene",
+                "name": "<:bgrade:1247906953485619372> **ACID EYES Yoon SeoYeon** Cherry Gene",
                 "image": "https://ik.imagekit.io/superstartriples/resources/card/acid_eyes/cherry_gene/4.png",
                 "song": "ACID EYES - Cherry Gene (Verse 1)",
-                "inv": "<:b:1247900762676396085> Cherry Gene"
+                "inv": "<:bgrade:1247906953485619372> Cherry Gene"
             }
         ],
         "AECG_YSY_C": [
             {
-                "name": "<:c:1247900740400447549> **ACID EYES Yoon SeoYeon** Cherry Gene",
+                "name": "<:cgrade:1247906951053054083> **ACID EYES Yoon SeoYeon** Cherry Gene",
                 "image": "https://ik.imagekit.io/superstartriples/resources/card/acid_eyes/cherry_gene/5.png",
                 "song": "ACID EYES - Cherry Gene (Verse 1)",
-                "inv": "<:c:1247900740400447549> Cherry Gene"
+                "inv": "<:cgrade:1247906951053054083> Cherry Gene"
             }
         ]
 }
