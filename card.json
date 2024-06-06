@@ -38,5 +38,285 @@
                 "song": "ACID EYES - Cherry Gene (Verse 1)",
                 "inv": "<:cgrade:1247906951053054083> Cherry Gene"
             }
+        ],
+                "AECG_JHR_R": [
+            {
+                "name": "<:rgrade:1247906959445852183> **ACID EYES Jeong HyeRin** Cherry Gene",
+                "image": "https://ik.imagekit.io/superstartriples/resources/card/acid_eyes/cherry_gene/6.png",
+                "song": "ACID EYES - Cherry Gene (Verse 1)",
+                "inv": "<:rgrade:1247906959445852183> Cherry Gene"
+            }
+        ],
+        "AECG_JHR_S": [
+            {
+                "name": "<:sgrade:1247906957449498735> **ACID EYES Jeong HyeRin** Cherry Gene",
+                "image": "https://ik.imagekit.io/superstartriples/resources/card/acid_eyes/cherry_gene/7.png",
+                "song": "ACID EYES - Cherry Gene (Verse 1)",
+                "inv": "<:sgrade:1247906957449498735> Cherry Gene"
+            }
+        ],
+        "AECG_JHR_A": [
+            {
+                "name": "<:agrade:1247906955356540939> **ACID EYES Jeong HyeRin** Cherry Gene",
+                "image": "https://ik.imagekit.io/superstartriples/resources/card/acid_eyes/cherry_gene/8.png",
+                "song": "ACID EYES - Cherry Gene (Verse 1)",
+                "inv": "<:agrade:1247906955356540939> Cherry Gene"
+            }
+        ],
+        "AECG_JHR_B": [
+            {
+                "name": "<:bgrade:1247906953485619372> **ACID EYES Jeong HyeRin** Cherry Gene",
+                "image": "https://ik.imagekit.io/superstartriples/resources/card/acid_eyes/cherry_gene/9.png",
+                "song": "ACID EYES - Cherry Gene (Verse 1)",
+                "inv": "<:bgrade:1247906953485619372> Cherry Gene"
+            }
+        ],
+        "AECG_JHR_C": [
+            {
+                "name": "<:cgrade:1247906951053054083> **ACID EYES Jeong HyeRin** Cherry Gene",
+                "image": "https://ik.imagekit.io/superstartriples/resources/card/acid_eyes/cherry_gene/10.png",
+                "song": "ACID EYES - Cherry Gene (Verse 1)",
+                "inv": "<:cgrade:1247906951053054083> Cherry Gene"
+            }
+        ],
+                "AECG_LJW_R": [
+            {
+                "name": "<:rgrade:1247906959445852183> **ACID EYES Lee JiWoo** Cherry Gene",
+                "image": "https://ik.imagekit.io/superstartriples/resources/card/acid_eyes/cherry_gene/11.png",
+                "song": "ACID EYES - Cherry Gene (Verse 1)",
+                "inv": "<:rgrade:1247906959445852183> Cherry Gene"
+            }
+        ],
+        "AECG_LJW_S": [
+            {
+                "name": "<:sgrade:1247906957449498735> **ACID EYES Lee JiWoo** Cherry Gene",
+                "image": "https://ik.imagekit.io/superstartriples/resources/card/acid_eyes/cherry_gene/12.png",
+                "song": "ACID EYES - Cherry Gene (Verse 1)",
+                "inv": "<:sgrade:1247906957449498735> Cherry Gene"
+            }
+        ],
+        "AECG_LJW_A": [
+            {
+                "name": "<:agrade:1247906955356540939> **ACID EYES Lee JiWoo** Cherry Gene",
+                "image": "https://ik.imagekit.io/superstartriples/resources/card/acid_eyes/cherry_gene/13.png",
+                "song": "ACID EYES - Cherry Gene (Verse 1)",
+                "inv": "<:agrade:1247906955356540939> Cherry Gene"
+            }
+        ],
+        "AECG_LJW_B": [
+            {
+                "name": "<:bgrade:1247906953485619372> **ACID EYES Lee JiWoo** Cherry Gene",
+                "image": "https://ik.imagekit.io/superstartriples/resources/card/acid_eyes/cherry_gene/14.png",
+                "song": "ACID EYES - Cherry Gene (Verse 1)",
+                "inv": "<:bgrade:1247906953485619372> Cherry Gene"
+            }
+        ],
+        "AECG_LJW_C": [
+            {
+                "name": "<:cgrade:1247906951053054083> **ACID EYES Lee JiWoo** Cherry Gene",
+                "image": "https://ik.imagekit.io/superstartriples/resources/card/acid_eyes/cherry_gene/15.png",
+                "song": "ACID EYES - Cherry Gene (Verse 1)",
+                "inv": "<:cgrade:1247906951053054083> Cherry Gene"
+            }
+        ],
+                "AECG_KCY_R": [
+            {
+                "name": "<:rgrade:1247906959445852183> **ACID EYES Kim ChaeYeon** Cherry Gene",
+                "image": "https://ik.imagekit.io/superstartriples/resources/card/acid_eyes/cherry_gene/16.png",
+                "song": "ACID EYES - Cherry Gene (Verse 1)",
+                "inv": "<:rgrade:1247906959445852183> Cherry Gene"
+            }
+        ],
+        "AECG_KCY_S": [
+            {
+                "name": "<:sgrade:1247906957449498735> **ACID EYES Kim ChaeYeon** Cherry Gene",
+                "image": "https://ik.imagekit.io/superstartriples/resources/card/acid_eyes/cherry_gene/17.png",
+                "song": "ACID EYES - Cherry Gene (Verse 1)",
+                "inv": "<:sgrade:1247906957449498735> Cherry Gene"
+            }
+        ],
+        "AECG_KCY_A": [
+            {
+                "name": "<:agrade:1247906955356540939> **ACID EYES Kim ChaeYeon** Cherry Gene",
+                "image": "https://ik.imagekit.io/superstartriples/resources/card/acid_eyes/cherry_gene/18.png",
+                "song": "ACID EYES - Cherry Gene (Verse 1)",
+                "inv": "<:agrade:1247906955356540939> Cherry Gene"
+            }
+        ],
+        "AECG_KCY_B": [
+            {
+                "name": "<:bgrade:1247906953485619372> **ACID EYES Kim ChaeYeon** Cherry Gene",
+                "image": "https://ik.imagekit.io/superstartriples/resources/card/acid_eyes/cherry_gene/19.png",
+                "song": "ACID EYES - Cherry Gene (Verse 1)",
+                "inv": "<:bgrade:1247906953485619372> Cherry Gene"
+            }
+        ],
+        "AECG_KCY_C": [
+            {
+                "name": "<:cgrade:1247906951053054083> **ACID EYES Kim ChaeYeon** Cherry Gene",
+                "image": "https://ik.imagekit.io/superstartriples/resources/card/acid_eyes/cherry_gene/20.png",
+                "song": "ACID EYES - Cherry Gene (Verse 1)",
+                "inv": "<:cgrade:1247906951053054083> Cherry Gene"
+            }
+        ],
+                "AECG_KYY_R": [
+            {
+                "name": "<:rgrade:1247906959445852183> **ACID EYES Kim YooYeon** Cherry Gene",
+                "image": "https://ik.imagekit.io/superstartriples/resources/card/acid_eyes/cherry_gene/21.png",
+                "song": "ACID EYES - Cherry Gene (Verse 1)",
+                "inv": "<:rgrade:1247906959445852183> Cherry Gene"
+            }
+        ],
+        "AECG_KYY_S": [
+            {
+                "name": "<:sgrade:1247906957449498735> **ACID EYES Kim YooYeon** Cherry Gene",
+                "image": "https://ik.imagekit.io/superstartriples/resources/card/acid_eyes/cherry_gene/22.png",
+                "song": "ACID EYES - Cherry Gene (Verse 1)",
+                "inv": "<:sgrade:1247906957449498735> Cherry Gene"
+            }
+        ],
+        "AECG_KYY_A": [
+            {
+                "name": "<:agrade:1247906955356540939> **ACID EYES Kim YooYeon** Cherry Gene",
+                "image": "https://ik.imagekit.io/superstartriples/resources/card/acid_eyes/cherry_gene/23.png",
+                "song": "ACID EYES - Cherry Gene (Verse 1)",
+                "inv": "<:agrade:1247906955356540939> Cherry Gene"
+            }
+        ],
+        "AECG_KYY_B": [
+            {
+                "name": "<:bgrade:1247906953485619372> **ACID EYES Kim YooYeon** Cherry Gene",
+                "image": "https://ik.imagekit.io/superstartriples/resources/card/acid_eyes/cherry_gene/24.png",
+                "song": "ACID EYES - Cherry Gene (Verse 1)",
+                "inv": "<:bgrade:1247906953485619372> Cherry Gene"
+            }
+        ],
+        "AECG_KYY_C": [
+            {
+                "name": "<:cgrade:1247906951053054083> **ACID EYES Kim YooYeon** Cherry Gene",
+                "image": "https://ik.imagekit.io/superstartriples/resources/card/acid_eyes/cherry_gene/25.png",
+                "song": "ACID EYES - Cherry Gene (Verse 1)",
+                "inv": "<:cgrade:1247906951053054083> Cherry Gene"
+            }
+        ],
+                "AECG_KSM_R": [
+            {
+                "name": "<:rgrade:1247906959445852183> **ACID EYES Kim SooMin** Cherry Gene",
+                "image": "https://ik.imagekit.io/superstartriples/resources/card/acid_eyes/cherry_gene/26.png",
+                "song": "ACID EYES - Cherry Gene (Verse 1)",
+                "inv": "<:rgrade:1247906959445852183> Cherry Gene"
+            }
+        ],
+        "AECG_KSM_S": [
+            {
+                "name": "<:sgrade:1247906957449498735> **ACID EYES Kim SooMin** Cherry Gene",
+                "image": "https://ik.imagekit.io/superstartriples/resources/card/acid_eyes/cherry_gene/27.png",
+                "song": "ACID EYES - Cherry Gene (Verse 1)",
+                "inv": "<:sgrade:1247906957449498735> Cherry Gene"
+            }
+        ],
+        "AECG_KSM_A": [
+            {
+                "name": "<:agrade:1247906955356540939> **ACID EYES Kim SooMin** Cherry Gene",
+                "image": "https://ik.imagekit.io/superstartriples/resources/card/acid_eyes/cherry_gene/28.png",
+                "song": "ACID EYES - Cherry Gene (Verse 1)",
+                "inv": "<:agrade:1247906955356540939> Cherry Gene"
+            }
+        ],
+        "AECG_KSM_B": [
+            {
+                "name": "<:bgrade:1247906953485619372> **ACID EYES Kim SooMin** Cherry Gene",
+                "image": "https://ik.imagekit.io/superstartriples/resources/card/acid_eyes/cherry_gene/29.png",
+                "song": "ACID EYES - Cherry Gene (Verse 1)",
+                "inv": "<:bgrade:1247906953485619372> Cherry Gene"
+            }
+        ],
+        "AECG_KSM_C": [
+            {
+                "name": "<:cgrade:1247906951053054083> **ACID EYES Kim SooMin** Cherry Gene",
+                "image": "https://ik.imagekit.io/superstartriples/resources/card/acid_eyes/cherry_gene/30.png",
+                "song": "ACID EYES - Cherry Gene (Verse 1)",
+                "inv": "<:cgrade:1247906951053054083> Cherry Gene"
+            }
+        ],
+                "AECG_KNK_R": [
+            {
+                "name": "<:rgrade:1247906959445852183> **ACID EYES Kim NakYoung** Cherry Gene",
+                "image": "https://ik.imagekit.io/superstartriples/resources/card/acid_eyes/cherry_gene/31.png",
+                "song": "ACID EYES - Cherry Gene (Verse 1)",
+                "inv": "<:rgrade:1247906959445852183> Cherry Gene"
+            }
+        ],
+        "AECG_KNK_S": [
+            {
+                "name": "<:sgrade:1247906957449498735> **ACID EYES Kim NakYoung** Cherry Gene",
+                "image": "https://ik.imagekit.io/superstartriples/resources/card/acid_eyes/cherry_gene/32.png",
+                "song": "ACID EYES - Cherry Gene (Verse 1)",
+                "inv": "<:sgrade:1247906957449498735> Cherry Gene"
+            }
+        ],
+        "AECG_KNK_A": [
+            {
+                "name": "<:agrade:1247906955356540939> **ACID EYES Kim NakYoung** Cherry Gene",
+                "image": "https://ik.imagekit.io/superstartriples/resources/card/acid_eyes/cherry_gene/33.png",
+                "song": "ACID EYES - Cherry Gene (Verse 1)",
+                "inv": "<:agrade:1247906955356540939> Cherry Gene"
+            }
+        ],
+        "AECG_KNK_B": [
+            {
+                "name": "<:bgrade:1247906953485619372> **ACID EYES Kim NakYoung** Cherry Gene",
+                "image": "https://ik.imagekit.io/superstartriples/resources/card/acid_eyes/cherry_gene/34.png",
+                "song": "ACID EYES - Cherry Gene (Verse 1)",
+                "inv": "<:bgrade:1247906953485619372> Cherry Gene"
+            }
+        ],
+        "AECG_KNK_C": [
+            {
+                "name": "<:cgrade:1247906951053054083> **ACID EYES Kim NakYoung** Cherry Gene",
+                "image": "https://ik.imagekit.io/superstartriples/resources/card/acid_eyes/cherry_gene/35.png",
+                "song": "ACID EYES - Cherry Gene (Verse 1)",
+                "inv": "<:cgrade:1247906951053054083> Cherry Gene"
+            }
+        ],
+                "AECG_GYB_R": [
+            {
+                "name": "<:rgrade:1247906959445852183> **ACID EYES Gong Yubin** Cherry Gene",
+                "image": "https://ik.imagekit.io/superstartriples/resources/card/acid_eyes/cherry_gene/36.png",
+                "song": "ACID EYES - Cherry Gene (Verse 1)",
+                "inv": "<:rgrade:1247906959445852183> Cherry Gene"
+            }
+        ],
+        "AECG_GYB_S": [
+            {
+                "name": "<:sgrade:1247906957449498735> **ACID EYES Gong Yubin** Cherry Gene",
+                "image": "https://ik.imagekit.io/superstartriples/resources/card/acid_eyes/cherry_gene/37.png",
+                "song": "ACID EYES - Cherry Gene (Verse 1)",
+                "inv": "<:sgrade:1247906957449498735> Cherry Gene"
+            }
+        ],
+        "AECG_GYB_A": [
+            {
+                "name": "<:agrade:1247906955356540939> **ACID EYES Gong Yubin** Cherry Gene",
+                "image": "https://ik.imagekit.io/superstartriples/resources/card/acid_eyes/cherry_gene/38.png",
+                "song": "ACID EYES - Cherry Gene (Verse 1)",
+                "inv": "<:agrade:1247906955356540939> Cherry Gene"
+            }
+        ],
+        "AECG_GYB_B": [
+            {
+                "name": "<:bgrade:1247906953485619372> **ACID EYES Gong Yubin** Cherry Gene",
+                "image": "https://ik.imagekit.io/superstartriples/resources/card/acid_eyes/cherry_gene/39.png",
+                "song": "ACID EYES - Cherry Gene (Verse 1)",
+                "inv": "<:bgrade:1247906953485619372> Cherry Gene"
+            }
+        ],
+        "AECG_GYB_C": [
+            {
+                "name": "<:cgrade:1247906951053054083> **ACID EYES Gong Yubin** Cherry Gene",
+                "image": "https://ik.imagekit.io/superstartriples/resources/card/acid_eyes/cherry_gene/40.png",
+                "song": "ACID EYES - Cherry Gene (Verse 1)",
+                "inv": "<:cgrade:1247906951053054083> Cherry Gene"
+            }
         ]
 }
