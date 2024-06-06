@@ -1,18 +1,42 @@
 {
-        "BPAS_JS_R": [
+        "AECG_YSY_R": [
             {
-                "name": "<:r:1081522963628699669> **BLACKPINK JISOO** As If It's Your Last",
-                "image": "https://superstarsei.sirv.com/2023/April/AS%20IF%20IT'S%20YOUR%20LAST/1.png?format=png",
-                "song": "BLACKPINK - As If It's Your Last (Verse 1)",
-                "inv": "<:r:1081522963628699669> As If It's Your Last"
+                "name": "<:r:1247900738294906923> **ACID EYES Yoon SeoYeon** Cherry Gene",
+                "image": "https://ik.imagekit.io/superstartriples/resources/card/acid_eyes/cherry_gene/1.png",
+                "song": "ACID EYES - Cherry Gene (Verse 1)",
+                "inv": "<:r:1247900738294906923> Cherry Gene"
             }
         ],
-        "BPAS_JS_S": [
+        "AECG_YSY_S": [
             {
-                "name": "<:s:1081522960067727360> **BLACKPINK JISOO** As If It's Your Last",
-                "image": "https://superstarsei.sirv.com/2023/April/AS%20IF%20IT'S%20YOUR%20LAST/2.png?format=png",
-                "song": "BLACKPINK - As If It's Your Last (Verse 1)",
-                "inv": "<:s:1081522960067727360> As If It's Your Last"
+                "name": "<:s_:1247900718610911253> **ACID EYES Yoon SeoYeon** Cherry Gene",
+                "image": "https://ik.imagekit.io/superstartriples/resources/card/acid_eyes/cherry_gene/2.png",
+                "song": "ACID EYES - Cherry Gene (Verse 1)",
+                "inv": "<:s_:1247900718610911253> Cherry Gene"
+            }
+        ],
+        "AECG_YSY_A": [
+            {
+                "name": "<:a:1247900744552812617> **ACID EYES Yoon SeoYeon** Cherry Gene",
+                "image": "https://ik.imagekit.io/superstartriples/resources/card/acid_eyes/cherry_gene/3.png",
+                "song": "ACID EYES - Cherry Gene (Verse 1)",
+                "inv": "<:a:1247900744552812617> Cherry Gene"
+            }
+        ],
+        "AECG_YSY_B": [
+            {
+                "name": "<:b:1247900762676396085> **ACID EYES Yoon SeoYeon** Cherry Gene",
+                "image": "https://ik.imagekit.io/superstartriples/resources/card/acid_eyes/cherry_gene/4.png",
+                "song": "ACID EYES - Cherry Gene (Verse 1)",
+                "inv": "<:b:1247900762676396085> Cherry Gene"
+            }
+        ],
+        "AECG_YSY_C": [
+            {
+                "name": "<:c:1247900740400447549> **ACID EYES Yoon SeoYeon** Cherry Gene",
+                "image": "https://ik.imagekit.io/superstartriples/resources/card/acid_eyes/cherry_gene/5.png",
+                "song": "ACID EYES - Cherry Gene (Verse 1)",
+                "inv": "<:c:1247900740400447549> Cherry Gene"
             }
         ]
 }
